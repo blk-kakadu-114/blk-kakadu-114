@@ -1,4 +1,4 @@
-# 👋 Hi, I'm kakadu
+# 👋 Hi, I'm Dzmitry
 
 ## About Me
 
