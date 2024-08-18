@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a 21 y.o. third-year student majoring in Intelligent Control Systems at the **Saint Petersburg State University of Telecommunications**. With a passion for **Data Science** and **System Analytics**, I am actively developing my skills and knowledge to become a sought-after specialist in these fields.
+I'm a 21 y.o. 4th year student majoring in Intelligent Control Systems at the **Saint Petersburg State University of Telecommunications**. With a passion for **Data Science** and **System Analytics**, I am actively developing my skills and knowledge to become a sought-after specialist in these fields.
 
 I love working with data & information and am currently actively studying AI not only at University to have the necessary skills.
 
